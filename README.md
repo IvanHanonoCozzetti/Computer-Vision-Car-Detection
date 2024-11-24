@@ -1,5 +1,5 @@
 # Computer Vision Car Detection, OpenCV in Python
-An implementation of a Computer Vision system to recognize and count vehicles.
+An implementation of a computer vision system to recognize and count vehicles.
 
 ![presentation](https://github.com/IvanHanonoCozzetti/Computer-Vision-Car-Detection/blob/main/output_file.gif)
 
